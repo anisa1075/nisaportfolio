@@ -39,11 +39,11 @@ const Qualification = () => {
                         {/* data 1 */}
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Design</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
+                                <h3 className="qualification__title">Software Engineering</h3>
+                                <span className="qualification__subtitle">IDN Polytechnic Bogor</span>
 
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2023 - Present
                                 </div>
                             </div>
 
@@ -64,51 +64,15 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Art Web</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
+                                <h3 className="qualification__title">Network Computer</h3>
+                                <span className="qualification__subtitle">SMKN 1 Jambi</span>
 
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2020 - 2023
                                 </div>
                             </div>
                         </div>
 
-                        {/* data 3 */}
-                        <div className="qualification__data">
-                            <div>
-                                <h3 className="qualification__title">Web Developer</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
-
-                                <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
-                            </div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                        </div>
-
-                        {/* data 4 */}
-                        <div className="qualification__data">
-
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification__title">UX Design</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
-
-                                <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
-                            </div>
-                        </div>
 
                     </div>
 
@@ -118,11 +82,11 @@ const Qualification = () => {
                         {/* data 1 */}
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Product Designer</h3>
-                                <span className="qualification__subtitle">Microsoft - Spain</span>
+                                <h3 className="qualification__title">IT Teacher</h3>
+                                <span className="qualification__subtitle">IDN Boarding School Akhwat</span>
 
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2024 - Present
                                 </div>
                             </div>
 
@@ -142,33 +106,16 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Ux Designer</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
+                                <h3 className="qualification__title">Freelancer</h3>
+                                <span className="qualification__subtitle">Web Travel & School</span>
 
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2024 - Present
                                 </div>
                             </div>
                         </div>
 
-                        {/* data 3 */}
-                        <div className="qualification__data">
-                            <div>
-                                <h3 className="qualification__title">Web Developer</h3>
-                                <span className="qualification__subtitle">IDN Polytechnic</span>
-
-                                <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
-                                </div>
-                            </div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                        </div>
-
-
+                       
                     </div>
 
                 </div>

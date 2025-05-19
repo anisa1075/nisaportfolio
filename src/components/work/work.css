@@ -35,6 +35,9 @@
 
 .work__img{
     width: 295px;
+    height: 180px;
+    object-fit: cover;
+    background-position: center;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }

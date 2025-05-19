@@ -3,7 +3,7 @@
 const Data = () => {
     return (
         <div className="home__data">
-            <h3 className="home__title">Anisaa
+            <h3 className="home__title">Anisa
             </h3>
 
             <h3 className="home__subtitle">I&apos;m Web Developer</h3>

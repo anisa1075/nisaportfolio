@@ -20,9 +20,9 @@ const Footer = () => {
                 </ul>
 
                 <div className="footer__social">
-                    <a href="" className="footer__social-link" target="_blank"><i className="uil uil-instagram"></i></a>
-                    <a href="" className="footer__social-link" target="_blank"><i className="uil uil-linkedin"></i></a>
-                    <a href="" className="footer__social-link" target="_blank"><i className="uil uil-github-alt"></i></a>
+                    <a href="https://www.instagram.com/nisaa107_/" className="footer__social-link" target="_blank"><i className="uil uil-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/anisa-nisa-534a50287/" className="footer__social-link" target="_blank"><i className="uil uil-linkedin"></i></a>
+                    <a href="https://github.com/anisa1075" className="footer__social-link" target="_blank"><i className="uil uil-github-alt"></i></a>
                 </div>
 
                 <span className="footer__copy">&#169; Anisa. All rigths reserved</span>
