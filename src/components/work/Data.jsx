@@ -1,8 +1,10 @@
 import Work1 from "../../assets/project1.png";
-import Work2 from "../../assets/project 2.png";
+// import Work2 from "../../assets/project 2.png";
 import Work3 from "../../assets/project 3.png";
 import Work4 from "../../assets/project 4.png";
 import Work5 from "../../assets/project 5.png";
+import Work6 from "../../assets/project6.png";
+import Work7 from "../../assets/project7.png";
 
 
 export const projectsData = [
@@ -14,17 +16,10 @@ export const projectsData = [
         category: "web",
     },
     {
-        id: 2,
-        image: Work2,
-        title: "Web School ",
-        link: "https://setialeaderpreneur.sch.id/",
-        category: "web",
-    },
-    {
         id: 3,
         image: Work3,
         title: "Web Portfolio",
-        link: "https://anisa.idnakhwat.com/",
+        link: "https://idnakhwat.com/",
         category: "web",
     },
     {
@@ -40,6 +35,20 @@ export const projectsData = [
         title: "Slicing Web",
         link: "https://slicing-figma-nine.vercel.app/",
         category: "web",
+    },
+    {
+        id: 6,
+        image: Work6,
+        title: "MyBudet App",
+        link: "https://mybudget-ten.vercel.app/",
+        category: "web",
+    },
+    {
+        id: 7,
+        image: Work7,
+        title: "Qur'an App",
+        link: "https://alquran-web-delta.vercel.app/",
+        category: "web",
     }
 ]
 
@@ -52,8 +61,5 @@ export const projectsNav = [
     },
     {
         name: "app",
-    },
-    {
-        name: "article",
     },
 ]
